@@ -1,6 +1,6 @@
 # jni-impl
-My own implementation to work with the JVM (either internally or externally).
-You can work with fields and klasses, however you cannot work with Methods as I didnt implement it YET.
+My own implementation to interact with the JVM.
+You can interact with fields and klasses, however Methods are not implemented YET.
 
 ## Requirements
 A supported JVM version. (some patterns will probably not works on custom JVM)
